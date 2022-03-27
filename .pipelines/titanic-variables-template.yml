@@ -22,7 +22,7 @@ variables:
   - name: EXPERIMENT_NAME
     value: mlopspython
   - name: DATASET_NAME
-    value: titanic_ds
+    value: titanic
   # Uncomment DATASTORE_NAME if you have configured non default datastore to point to your data
   # - name: DATASTORE_NAME
   #   value: datablobstore
